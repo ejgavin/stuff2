@@ -1,0 +1,11 @@
+{
+  "name": "stuff",
+  "version": "1.0.0",
+  "description": "stuff",
+  "scripts": {
+    "start": "http-server . -p 8000"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
